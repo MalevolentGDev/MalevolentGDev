@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MalevolentGDev
+- 👀 I’m interested in Game Developement, Story Writing, and Drawing
+- 🌱 I’m currently learning Godot Game Engine
